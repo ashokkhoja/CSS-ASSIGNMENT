@@ -1,0 +1,33 @@
+.dashboard {
+  display: flex;
+  width: 1000px;
+  height: 400px;
+  flex-direction: row;
+  gap: 15px;
+  align-items: stretch;
+}
+
+.sidebar {
+  flex: 0 0 200px;
+  width: 200px;
+  background: #ddd;
+}
+
+.main-content {
+  flex: 1 1 0;
+  width: 200px;
+  background: #e8f0ff;
+  min-width: 0;
+  flex-shrink: 3;
+}
+
+.activity-panel {
+  flex: 0 1 250px;
+  width: 250px;
+  background: #eee;
+  align-self: auto;
+}
+
+.dashboard > * {
+  padding: 15px;
+}

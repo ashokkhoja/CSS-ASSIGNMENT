@@ -1,0 +1,34 @@
+.products {
+  display: flex;
+  width: 1400px;
+  height: 700px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: center;
+  gap: 20px;
+  /* box-shadow: 0px 0px 10px; */
+}
+
+.product {
+  width: 280px;
+  height: 300px;
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border: 1px solid #ccc;
+  box-shadow: 0px 0px 5px;
+}
+
+.product img {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+}
+
+.product button {
+  margin-top: auto;
+}

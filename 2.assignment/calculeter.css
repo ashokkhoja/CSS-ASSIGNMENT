@@ -1,0 +1,126 @@
+.main{
+    background: #1C1C1C;
+    width: 500px;
+    height: 700px;
+    box-shadow: 0px 0px 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.number{
+    color: aliceblue;
+    font-size: 40px;
+    display: flex;
+   margin-left: 270px;
+   margin-top: -30px;
+}
+.first{
+    /* border: 2px solid white; */
+    width: 150px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: -40px;
+    margin-left: 20px;
+
+}
+.u{
+   width: 180px;
+   height: 80px;
+   border: none;
+    background: #505050;
+    color: antiquewhite;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 40px;
+    font-size: 20px;
+
+
+}
+.aas{
+    /* border: 2px solid red; */
+    height: 80px;
+    border-radius: 50%;
+    width: 80px;
+    background: #505050;
+    color: antiquewhite;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.second{
+       /* border: 2px solid white; */
+    width: 150px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: -570px;
+    margin-left: 130px;
+}
+.aap{
+        /* border: 2px solid red; */
+    height: 80px;
+    border-radius: 50%;
+    width: 80px;
+    background: #505050;
+    color: antiquewhite;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.third{
+         /* border: 2px solid white; */
+    width: 150px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: -570px;
+    margin-left: 240px;
+}
+.aa{
+         /* border: 2px solid red; */
+    height: 80px;
+    border-radius: 50%;
+    width: 80px;
+    background: #505050;
+    color: antiquewhite;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.fourth{
+             /* border: 2px solid white; */
+    width: 150px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: -570px;
+    margin-left: 350px;
+}
+.y{
+          /* border: 2px solid red; */
+    height: 80px;
+    border-radius: 50%;
+    width: 80px;
+    background: #FF9500;
+    color: antiquewhite;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.aape{
+            /* border: 2px solid red; */
+    height: 80px;
+    border-radius: 50%;
+    width: 80px;
+    background:#A2A2A2;
+    color: antiquewhite;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

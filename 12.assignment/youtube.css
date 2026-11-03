@@ -1,0 +1,141 @@
+.main{
+    width: 100%;
+    height: 1000px;
+    background: #212121;
+    position: relative;
+}
+
+.left{
+    width: 14%;
+    height: 800px;
+    background: #212121;
+    position: fixed;
+   
+    
+}
+.p{
+    color: white;
+}
+.Home h5 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    height: 40px;
+    margin: 0;
+    padding-left: 12px;
+    color: white;
+}
+.history1{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.left3 > p {
+    color: white;
+    margin: 0;
+    padding: 12px;
+    height: auto;
+    font-size: 14px;
+}
+.left3 .Home {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    height: 40px;
+    padding: 0 12px;
+}
+
+/* .................. */
+
+
+.uper {
+    height: 65px;
+    width: 85%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 10px;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 270px;
+    position: fixed;
+    /* background-color: #0e0202; */
+}
+.aa{
+    margin-bottom: -10px;
+}
+.aas{
+    margin-bottom: -10px;
+    margin-left: -35px;
+}
+
+.search{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 100px;
+    border: 1px solid rgb(129, 123, 123);
+    background: none;
+    color: aliceblue;
+}
+.f2{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.upper {
+    position: absolute;
+    top: 75px;
+    left: 15%;
+    width: 80%;
+    height: 60px; 
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 0 30px;
+    position: fixed;
+    z-index: 1;
+    /* background-color: #0b0101; */
+   
+}
+.upper > div {
+    background: #3a3838;
+    color: white;
+    padding: 9px 15px;
+    border-radius: 8px;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    flex-shrink: 0;
+}
+.upper .as {
+    background: white;
+    color: black;
+}
+.video{
+    width: 80%;
+    position: absolute;
+    left: 15%;
+    padding: 0 30px;
+    margin-top: -870px;
+    overflow: auto;
+    
+    
+    
+}
+.ff1{
+    
+    display: flex;
+    gap: 50px;
+    line-height: 15px;
+    color: white;
+    
+}
+
+
+
+
+
+

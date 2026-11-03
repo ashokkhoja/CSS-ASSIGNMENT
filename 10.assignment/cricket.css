@@ -1,0 +1,75 @@
+.logo{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 70px;
+}
+.main{
+    /* border: 2px solid black; */
+    width: 1000px;
+    height: 600px;
+    margin-left: 200px;
+    margin-top: 50px;
+    background-image: url(./Faded\ India\ Cricket\ Victory\ Trophy\ Celebration.png);
+    background-size: contain;
+}
+.middle{
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+
+
+
+.card {
+    width: 100%;
+    max-width: 800px;
+    margin-left: 50px;
+    background: white;
+    border: 1px solid #ddd;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+}
+
+td {
+    padding: 8px 15px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+
+}
+
+td:first-child {
+    text-align: left;
+}
+.f {
+    background: #f54b35;
+    color: white;
+   
+}
+
+.f td {
+    padding: 9px 15px;
+
+}
+
+.score {
+    text-align: right;
+}
+
+
+
+.player {
+    color: #3685ff;
+}
+
+.bowler {
+    color: #999;
+    text-align: left;
+}
+
+.left {
+    text-align: left;
+}
