@@ -4,6 +4,10 @@
 .aktop{
     background-image: url(assets/Title-Image.png);
     height: 700px;
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+    
 }
 .nav1 a{
     text-decoration: none;
